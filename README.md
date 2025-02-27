@@ -1,6 +1,6 @@
 # Top 4 der besten VPN-Anbieter in Deutschland 2025
 
-![VPN Hauptbild](https://drive.google.com/uc?export=view&id=DEINE_HAUPTBILD_ID)
+![VPN Hauptbild](https://github.com/Bester-VPN/.github/blob/main/images/vpn-heder.jpg)
 
 In letzter Zeit haben virtuelle private Netzwerke (VPNs) ein starkes Wachstum erfahren. Sie bieten eine sichere und private Möglichkeit, im Internet zu surfen, schützen die Nutzer vor Online-Bedrohungen und ermöglichen es ihnen, geografische Beschränkungen zu umgehen.
 
@@ -8,7 +8,7 @@ In letzter Zeit haben virtuelle private Netzwerke (VPNs) ein starkes Wachstum er
 
 ### 1. NordVPN
 
-![NordVPN Logo](https://drive.google.com/uc?export=view&id=DEINE_NORDVPN_BILD_ID)
+![NordVPN Logo](https://github.com/Bester-VPN/.github/blob/main/images/nordvpn-logo.jpg)
 
 **Am besten für Sicherheitsfunktionen**  
 Sonderangebot: **68% Rabatt**  
@@ -18,13 +18,13 @@ Sonderangebot: **68% Rabatt**
 - Erlaubt P2P  
 - Kostenlose 30-Tage-Testversion  
 
-[Mehr erfahren](https://www.cyberghostvpn.com/)
+[Mehr erfahren](https://nordvpn.com/)
 
 ---
 
 ### 2. Surfshark
 
-![Surfshark Logo](https://drive.google.com/uc?export=view&id=DEINE_SURFSHARK_BILD_ID)
+![Surfshark Logo](https://github.com/Bester-VPN/.github/blob/main/images/surfshark.jpg)
 
 **Am besten geeignet für Streaming**  
 Sonderangebot: **82% Rabatt**  
@@ -34,13 +34,13 @@ Sonderangebot: **82% Rabatt**
 - Erlaubt P2P  
 - Kostenlose 30-Tage-Testversion  
 
-[Mehr erfahren](https://www.cyberghostvpn.com/)
+[Mehr erfahren](https://surfshark.com/de/)
 
 ---
 
 ### 3. AtlasVPN
 
-![AtlasVPN Logo](https://drive.google.com/uc?export=view&id=DEINE_ATLASVPN_BILD_ID)
+![AtlasVPN Logo](https://github.com/Bester-VPN/.github/blob/main/images/atlasvpn-logo.jpg)
 
 **Das günstigste VPN**  
 Sonderangebot: **82% Rabatt**  
@@ -50,13 +50,13 @@ Sonderangebot: **82% Rabatt**
 - Erlaubt P2P  
 - Kostenlose 30-Tage-Testversion  
 
-[Mehr erfahren](https://www.cyberghostvpn.com/)
+[Mehr erfahren](https://atlasvpn.com/)
 
 ---
 
 ### 4. CyberGhost
 
-![CyberGhost Logo](https://drive.google.com/uc?export=view&id=DEINE_CYBERGHOST_BILD_ID)
+![CyberGhost Logo](https://github.com/Bester-VPN/.github/blob/main/images/logo-cyberghost.jpg)
 
 **Das Beste für die einfache Nutzung**  
 Sonderangebot: **82% Rabatt**  
