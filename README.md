@@ -18,7 +18,7 @@ Sonderangebot: **68% Rabatt**
 - Erlaubt P2P  
 - Kostenlose 30-Tage-Testversion  
 
-[Mehr erfahren](https://nordvpn.com/)
+[Mehr erfahren](https://nordvpn.com/de/special/?utm_medium=affiliate&utm_term=&utm_content&utm_campaign=off15&utm_source=aff118656)
 
 ---
 
