@@ -18,7 +18,7 @@ Sonderangebot: **68% Rabatt**
 - Erlaubt P2P  
 - Kostenlose 30-Tage-Testversion  
 
-[Mehr erfahren](https://nordvpn.com/)
+[Mehr erfahren](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=118656&url_id=902)
 
 ---
 
@@ -34,7 +34,7 @@ Sonderangebot: **82% Rabatt**
 - Erlaubt P2P  
 - Kostenlose 30-Tage-Testversion  
 
-[Mehr erfahren](https://surfshark.com/de/)
+[Mehr erfahren](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=118656&url_id=902)
 
 ---
 
@@ -50,7 +50,7 @@ Sonderangebot: **82% Rabatt**
 - Erlaubt P2P  
 - Kostenlose 30-Tage-Testversion  
 
-[Mehr erfahren](https://atlasvpn.com/)
+[Mehr erfahren](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=118656&url_id=902)
 
 ---
 
